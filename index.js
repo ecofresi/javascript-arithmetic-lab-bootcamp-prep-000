@@ -10,7 +10,7 @@ function mmultiply(a,b) {
   return a * b;
 }
 
-function division(a,b) {
+function divide(a,b) {
   return a / b;
 }
 
